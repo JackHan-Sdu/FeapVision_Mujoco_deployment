@@ -17,10 +17,15 @@
 ---
 
 ## Demo 视频
+<p align="center">
+  <a href="https://www.bilibili.com/video/BV1Bo5s63Ed2/">
+    <img src="https://img.shields.io/badge/Bilibili-Demo-%23FB7299?style=for-the-badge&logo=bilibili&logoColor=white">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.bilibili.com/video/BV1Bo5s63Ed2/">
-    <img src="https://i0.hdslb.com/bfs/archive/YOUR_BILIBILI_COVER.jpg" width="90%">
+    <img src="docs/demo.gif" width="90%">
   </a>
 </p>
 
